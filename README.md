@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeraldoAguiar
 - 👀 I’m interested in Programação
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Python
 - 📫 How to reach me pelo email geraldoman@hotmail.com
 <div align="center">
   <a href="https://github.com/geraldoaguiar">
